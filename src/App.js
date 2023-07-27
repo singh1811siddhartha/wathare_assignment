@@ -1,7 +1,7 @@
 import React from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter as Router, Route, Routes} from "react-router-dom";
-import EmployeeBarChart from "./EmployeeBarChart";
+import EmployeeBarChart from "./components/barchart.component";
 
 import Navbar from "./components/navbar.component"
 import EmployeeList from "./components/employee-list.component";
